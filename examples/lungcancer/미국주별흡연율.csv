@@ -1,0 +1,885 @@
+region,sex,year,total_mean
+National,Both,1996,24.71
+National,Both,1997,24.61
+National,Both,1998,24.5
+National,Both,1999,24.52
+National,Both,2000,24.46
+National,Both,2001,24.44
+National,Both,2002,24.45
+National,Both,2003,24.16
+National,Both,2004,23.7
+National,Both,2005,23.32
+National,Both,2006,22.77
+National,Both,2007,22.3
+National,Both,2008,21.72
+National,Both,2009,21.27
+National,Both,2010,20.89
+National,Both,2011,20.6
+National,Both,2012,19.97
+alabama,Both,1996,26.49
+alabama,Both,1997,26.63
+alabama,Both,1998,26.63
+alabama,Both,1999,26.77
+alabama,Both,2000,26.67
+alabama,Both,2001,26.93
+alabama,Both,2002,27.01
+alabama,Both,2003,27.05
+alabama,Both,2004,27.05
+alabama,Both,2005,26.61
+alabama,Both,2006,26.18
+alabama,Both,2007,25.83
+alabama,Both,2008,25.5
+alabama,Both,2009,25.01
+alabama,Both,2010,24.96
+alabama,Both,2011,24.56
+alabama,Both,2012,23.89
+alaska,Both,1996,26.35
+alaska,Both,1997,25.94
+alaska,Both,1998,25.78
+alaska,Both,1999,25.79
+alaska,Both,2000,26.02
+alaska,Both,2001,26.4
+alaska,Both,2002,26.55
+alaska,Both,2003,26.38
+alaska,Both,2004,26.15
+alaska,Both,2005,25.3
+alaska,Both,2006,24.59
+alaska,Both,2007,23.74
+alaska,Both,2008,22.72
+alaska,Both,2009,22.35
+alaska,Both,2010,22.18
+alaska,Both,2011,22.52
+alaska,Both,2012,21.82
+arizona,Both,1996,23.57
+arizona,Both,1997,23.04
+arizona,Both,1998,22.87
+arizona,Both,1999,22.79
+arizona,Both,2000,23.32
+arizona,Both,2001,23.41
+arizona,Both,2002,23.5
+arizona,Both,2003,23.92
+arizona,Both,2004,23.43
+arizona,Both,2005,23.1
+arizona,Both,2006,22.57
+arizona,Both,2007,22.06
+arizona,Both,2008,21.03
+arizona,Both,2009,20.68
+arizona,Both,2010,20.6
+arizona,Both,2011,21.21
+arizona,Both,2012,20.55
+arkansas,Both,1996,28.57
+arkansas,Both,1997,28.43
+arkansas,Both,1998,28.46
+arkansas,Both,1999,28.41
+arkansas,Both,2000,28.36
+arkansas,Both,2001,28.62
+arkansas,Both,2002,28.34
+arkansas,Both,2003,28.38
+arkansas,Both,2004,27.83
+arkansas,Both,2005,27.65
+arkansas,Both,2006,27.41
+arkansas,Both,2007,26.96
+arkansas,Both,2008,26.86
+arkansas,Both,2009,26.65
+arkansas,Both,2010,26.22
+arkansas,Both,2011,26.25
+arkansas,Both,2012,25.58
+california,Both,1996,20.27
+california,Both,1997,20.19
+california,Both,1998,20.14
+california,Both,1999,19.91
+california,Both,2000,19.83
+california,Both,2001,19.6
+california,Both,2002,19.26
+california,Both,2003,18.79
+california,Both,2004,18.48
+california,Both,2005,17.98
+california,Both,2006,17.3
+california,Both,2007,16.72
+california,Both,2008,16.14
+california,Both,2009,15.54
+california,Both,2010,15.22
+california,Both,2011,15.05
+california,Both,2012,14.57
+colorado,Both,1996,22.89
+colorado,Both,1997,22.67
+colorado,Both,1998,22.56
+colorado,Both,1999,22.51
+colorado,Both,2000,22.21
+colorado,Both,2001,21.73
+colorado,Both,2002,21.68
+colorado,Both,2003,21.74
+colorado,Both,2004,21.19
+colorado,Both,2005,20.95
+colorado,Both,2006,20.68
+colorado,Both,2007,20.34
+colorado,Both,2008,19.76
+colorado,Both,2009,19.51
+colorado,Both,2010,19.17
+colorado,Both,2011,18.99
+colorado,Both,2012,18.48
+connecticut,Both,1996,23.24
+connecticut,Both,1997,23.11
+connecticut,Both,1998,22.95
+connecticut,Both,1999,23.22
+connecticut,Both,2000,23.07
+connecticut,Both,2001,22.81
+connecticut,Both,2002,22.5
+connecticut,Both,2003,22.14
+connecticut,Both,2004,21.56
+connecticut,Both,2005,21.04
+connecticut,Both,2006,20.61
+connecticut,Both,2007,20.08
+connecticut,Both,2008,19.51
+connecticut,Both,2009,18.78
+connecticut,Both,2010,18.32
+connecticut,Both,2011,18.17
+connecticut,Both,2012,17.56
+delaware,Both,1996,26.37
+delaware,Both,1997,26.07
+delaware,Both,1998,26.36
+delaware,Both,1999,26.83
+delaware,Both,2000,26.4
+delaware,Both,2001,25.66
+delaware,Both,2002,25.38
+delaware,Both,2003,26.36
+delaware,Both,2004,25.4
+delaware,Both,2005,24.74
+delaware,Both,2006,24.86
+delaware,Both,2007,24.56
+delaware,Both,2008,22.96
+delaware,Both,2009,22.56
+delaware,Both,2010,22.01
+delaware,Both,2011,22.29
+delaware,Both,2012,21.62
+district of columbia,Both,1996,20.88
+district of columbia,Both,1997,21.16
+district of columbia,Both,1998,21.39
+district of columbia,Both,1999,22.39
+district of columbia,Both,2000,23.51
+district of columbia,Both,2001,23.53
+district of columbia,Both,2002,23.92
+district of columbia,Both,2003,23.95
+district of columbia,Both,2004,23.07
+district of columbia,Both,2005,22.51
+district of columbia,Both,2006,22.38
+district of columbia,Both,2007,21.75
+district of columbia,Both,2008,21.08
+district of columbia,Both,2009,21.09
+district of columbia,Both,2010,20.67
+district of columbia,Both,2011,20.36
+district of columbia,Both,2012,19.63
+florida,Both,1996,25.47
+florida,Both,1997,25.47
+florida,Both,1998,25.39
+florida,Both,1999,25.48
+florida,Both,2000,25.31
+florida,Both,2001,25.35
+florida,Both,2002,25.46
+florida,Both,2003,25.41
+florida,Both,2004,25.04
+florida,Both,2005,24.88
+florida,Both,2006,24.28
+florida,Both,2007,23.68
+florida,Both,2008,23.03
+florida,Both,2009,22.67
+florida,Both,2010,21.49
+florida,Both,2011,21.16
+florida,Both,2012,20.4
+georgia,Both,1996,24.77
+georgia,Both,1997,24.65
+georgia,Both,1998,24.61
+georgia,Both,1999,25.14
+georgia,Both,2000,24.07
+georgia,Both,2001,24.81
+georgia,Both,2002,24.32
+georgia,Both,2003,24.39
+georgia,Both,2004,23.58
+georgia,Both,2005,23.42
+georgia,Both,2006,23.01
+georgia,Both,2007,22.68
+georgia,Both,2008,22.09
+georgia,Both,2009,21.56
+georgia,Both,2010,21.43
+georgia,Both,2011,21.34
+georgia,Both,2012,20.71
+hawaii,Both,1996,21.94
+hawaii,Both,1997,21.49
+hawaii,Both,1998,20.68
+hawaii,Both,1999,20.64
+hawaii,Both,2000,20.97
+hawaii,Both,2001,20.96
+hawaii,Both,2002,21.17
+hawaii,Both,2003,21.3
+hawaii,Both,2004,20.88
+hawaii,Both,2005,20.33
+hawaii,Both,2006,20.11
+hawaii,Both,2007,19.51
+hawaii,Both,2008,19.25
+hawaii,Both,2009,18.61
+hawaii,Both,2010,17.92
+hawaii,Both,2011,17.35
+hawaii,Both,2012,16.79
+idaho,Both,1996,22.7
+idaho,Both,1997,22.78
+idaho,Both,1998,22.99
+idaho,Both,1999,22.85
+idaho,Both,2000,22.59
+idaho,Both,2001,22.9
+idaho,Both,2002,22.61
+idaho,Both,2003,22.23
+idaho,Both,2004,21.77
+idaho,Both,2005,21.6
+idaho,Both,2006,21.32
+idaho,Both,2007,21.19
+idaho,Both,2008,20.69
+idaho,Both,2009,20.43
+idaho,Both,2010,20.04
+idaho,Both,2011,20.29
+idaho,Both,2012,19.66
+illinois,Both,1996,24.99
+illinois,Both,1997,24.76
+illinois,Both,1998,24.7
+illinois,Both,1999,24.45
+illinois,Both,2000,24.4
+illinois,Both,2001,24.71
+illinois,Both,2002,25.15
+illinois,Both,2003,24.23
+illinois,Both,2004,24.15
+illinois,Both,2005,23.89
+illinois,Both,2006,23.44
+illinois,Both,2007,22.83
+illinois,Both,2008,22.56
+illinois,Both,2009,22.07
+illinois,Both,2010,21.46
+illinois,Both,2011,20.28
+illinois,Both,2012,19.78
+indiana,Both,1996,28.92
+indiana,Both,1997,28.89
+indiana,Both,1998,28.89
+indiana,Both,1999,29.12
+indiana,Both,2000,28.98
+indiana,Both,2001,29.03
+indiana,Both,2002,29.12
+indiana,Both,2003,28.41
+indiana,Both,2004,27.81
+indiana,Both,2005,27.63
+indiana,Both,2006,27.52
+indiana,Both,2007,27.54
+indiana,Both,2008,26.31
+indiana,Both,2009,26.1
+indiana,Both,2010,25.79
+indiana,Both,2011,25.24
+indiana,Both,2012,24.45
+iowa,Both,1996,25.57
+iowa,Both,1997,25.5
+iowa,Both,1998,25.48
+iowa,Both,1999,25.45
+iowa,Both,2000,25.47
+iowa,Both,2001,25.31
+iowa,Both,2002,24.92
+iowa,Both,2003,24.72
+iowa,Both,2004,24.56
+iowa,Both,2005,24.13
+iowa,Both,2006,23.81
+iowa,Both,2007,23.22
+iowa,Both,2008,22.45
+iowa,Both,2009,21.75
+iowa,Both,2010,21.41
+iowa,Both,2011,21.22
+iowa,Both,2012,20.64
+kansas,Both,1996,23.76
+kansas,Both,1997,23.73
+kansas,Both,1998,23.64
+kansas,Both,1999,23.76
+kansas,Both,2000,23.83
+kansas,Both,2001,24.12
+kansas,Both,2002,24.29
+kansas,Both,2003,23.35
+kansas,Both,2004,23.19
+kansas,Both,2005,22.95
+kansas,Both,2006,22.82
+kansas,Both,2007,22.45
+kansas,Both,2008,22.37
+kansas,Both,2009,22.11
+kansas,Both,2010,21.84
+kansas,Both,2011,21.57
+kansas,Both,2012,21.07
+kentucky,Both,1996,31.91
+kentucky,Both,1997,32.32
+kentucky,Both,1998,31.55
+kentucky,Both,1999,31.52
+kentucky,Both,2000,31.53
+kentucky,Both,2001,31.13
+kentucky,Both,2002,30.37
+kentucky,Both,2003,31.4
+kentucky,Both,2004,30.9
+kentucky,Both,2005,30.78
+kentucky,Both,2006,29.19
+kentucky,Both,2007,29.48
+kentucky,Both,2008,29.44
+kentucky,Both,2009,28.7
+kentucky,Both,2010,28.31
+kentucky,Both,2011,28.2
+kentucky,Both,2012,27.35
+louisiana,Both,1996,26.82
+louisiana,Both,1997,26.77
+louisiana,Both,1998,26.64
+louisiana,Both,1999,26.66
+louisiana,Both,2000,26.91
+louisiana,Both,2001,26.45
+louisiana,Both,2002,27.18
+louisiana,Both,2003,26.77
+louisiana,Both,2004,26.87
+louisiana,Both,2005,27.17
+louisiana,Both,2006,26.07
+louisiana,Both,2007,26.35
+louisiana,Both,2008,26.3
+louisiana,Both,2009,26.03
+louisiana,Both,2010,25.64
+louisiana,Both,2011,25.9
+louisiana,Both,2012,24.96
+maine,Both,1996,25.19
+maine,Both,1997,25.27
+maine,Both,1998,24.97
+maine,Both,1999,24.66
+maine,Both,2000,24.84
+maine,Both,2001,25.32
+maine,Both,2002,25.03
+maine,Both,2003,24.69
+maine,Both,2004,24.27
+maine,Both,2005,24.49
+maine,Both,2006,23.7
+maine,Both,2007,23.18
+maine,Both,2008,22.76
+maine,Both,2009,22.38
+maine,Both,2010,21.96
+maine,Both,2011,22.03
+maine,Both,2012,21.39
+maryland,Both,1996,22.76
+maryland,Both,1997,22.58
+maryland,Both,1998,22.48
+maryland,Both,1999,22.44
+maryland,Both,2000,22.3
+maryland,Both,2001,22.54
+maryland,Both,2002,22.84
+maryland,Both,2003,22.3
+maryland,Both,2004,22.01
+maryland,Both,2005,21.57
+maryland,Both,2006,20.78
+maryland,Both,2007,20.21
+maryland,Both,2008,19.43
+maryland,Both,2009,18.85
+maryland,Both,2010,18.5
+maryland,Both,2011,18.78
+maryland,Both,2012,18.26
+massachusetts,Both,1996,22.87
+massachusetts,Both,1997,22.49
+massachusetts,Both,1998,22.39
+massachusetts,Both,1999,22.1
+massachusetts,Both,2000,22.18
+massachusetts,Both,2001,22.21
+massachusetts,Both,2002,22.25
+massachusetts,Both,2003,22
+massachusetts,Both,2004,21.77
+massachusetts,Both,2005,21.43
+massachusetts,Both,2006,20.86
+massachusetts,Both,2007,20.42
+massachusetts,Both,2008,19.76
+massachusetts,Both,2009,19.21
+massachusetts,Both,2010,19.07
+massachusetts,Both,2011,19.2
+massachusetts,Both,2012,18.64
+michigan,Both,1996,26.87
+michigan,Both,1997,26.44
+michigan,Both,1998,26.24
+michigan,Both,1999,26.66
+michigan,Both,2000,26.66
+michigan,Both,2001,26.49
+michigan,Both,2002,26.52
+michigan,Both,2003,26.25
+michigan,Both,2004,25.87
+michigan,Both,2005,25.09
+michigan,Both,2006,24.66
+michigan,Both,2007,24.37
+michigan,Both,2008,23.96
+michigan,Both,2009,23.58
+michigan,Both,2010,23.67
+michigan,Both,2011,23.42
+michigan,Both,2012,22.83
+minnesota,Both,1996,22.16
+minnesota,Both,1997,22.11
+minnesota,Both,1998,21.94
+minnesota,Both,1999,22.37
+minnesota,Both,2000,22.34
+minnesota,Both,2001,22.92
+minnesota,Both,2002,23.42
+minnesota,Both,2003,23.4
+minnesota,Both,2004,22.89
+minnesota,Both,2005,22.1
+minnesota,Both,2006,21.51
+minnesota,Both,2007,20.93
+minnesota,Both,2008,20.42
+minnesota,Both,2009,20.11
+minnesota,Both,2010,20.05
+minnesota,Both,2011,20.28
+minnesota,Both,2012,19.2
+mississippi,Both,1996,26.55
+mississippi,Both,1997,26.57
+mississippi,Both,1998,26.59
+mississippi,Both,1999,26.81
+mississippi,Both,2000,26.95
+mississippi,Both,2001,27.39
+mississippi,Both,2002,27.67
+mississippi,Both,2003,27.64
+mississippi,Both,2004,27.6
+mississippi,Both,2005,27.7
+mississippi,Both,2006,27.18
+mississippi,Both,2007,26.85
+mississippi,Both,2008,26.82
+mississippi,Both,2009,26.37
+mississippi,Both,2010,25.52
+mississippi,Both,2011,25.35
+mississippi,Both,2012,24.66
+missouri,Both,1996,28.61
+missouri,Both,1997,28.39
+missouri,Both,1998,28.31
+missouri,Both,1999,28.22
+missouri,Both,2000,28.23
+missouri,Both,2001,28.2
+missouri,Both,2002,27.76
+missouri,Both,2003,27.85
+missouri,Both,2004,27.46
+missouri,Both,2005,26.96
+missouri,Both,2006,26.76
+missouri,Both,2007,26.48
+missouri,Both,2008,26.1
+missouri,Both,2009,25.82
+missouri,Both,2010,25.81
+missouri,Both,2011,25.51
+missouri,Both,2012,24.79
+montana,Both,1996,23.92
+montana,Both,1997,23.92
+montana,Both,1998,23.87
+montana,Both,1999,23.92
+montana,Both,2000,23.84
+montana,Both,2001,23.94
+montana,Both,2002,24.2
+montana,Both,2003,23.89
+montana,Both,2004,23.53
+montana,Both,2005,23.27
+montana,Both,2006,22.83
+montana,Both,2007,22.33
+montana,Both,2008,21.87
+montana,Both,2009,21.82
+montana,Both,2010,21.34
+montana,Both,2011,21.44
+montana,Both,2012,20.91
+nebraska,Both,1996,25.07
+nebraska,Both,1997,24.95
+nebraska,Both,1998,24.76
+nebraska,Both,1999,24.79
+nebraska,Both,2000,24.35
+nebraska,Both,2001,24.07
+nebraska,Both,2002,24.34
+nebraska,Both,2003,24.06
+nebraska,Both,2004,23.69
+nebraska,Both,2005,23.5
+nebraska,Both,2006,22.92
+nebraska,Both,2007,22.32
+nebraska,Both,2008,21.7
+nebraska,Both,2009,21.61
+nebraska,Both,2010,21.29
+nebraska,Both,2011,21.66
+nebraska,Both,2012,21.04
+nevada,Both,1996,29.65
+nevada,Both,1997,29.58
+nevada,Both,1998,30.03
+nevada,Both,1999,30.39
+nevada,Both,2000,30.04
+nevada,Both,2001,29.54
+nevada,Both,2002,28.79
+nevada,Both,2003,28.25
+nevada,Both,2004,27
+nevada,Both,2005,26.66
+nevada,Both,2006,26.33
+nevada,Both,2007,25.86
+nevada,Both,2008,25.46
+nevada,Both,2009,25
+nevada,Both,2010,24.71
+nevada,Both,2011,23.81
+nevada,Both,2012,23.01
+new hampshire,Both,1996,25.4
+new hampshire,Both,1997,26.08
+new hampshire,Both,1998,26.06
+new hampshire,Both,1999,26.26
+new hampshire,Both,2000,25.16
+new hampshire,Both,2001,24.42
+new hampshire,Both,2002,24.1
+new hampshire,Both,2003,24.02
+new hampshire,Both,2004,23.3
+new hampshire,Both,2005,22.63
+new hampshire,Both,2006,22.15
+new hampshire,Both,2007,21.42
+new hampshire,Both,2008,20.59
+new hampshire,Both,2009,20.29
+new hampshire,Both,2010,19.25
+new hampshire,Both,2011,18.86
+new hampshire,Both,2012,18.42
+new jersey,Both,1996,23.35
+new jersey,Both,1997,23.16
+new jersey,Both,1998,22.91
+new jersey,Both,1999,23.01
+new jersey,Both,2000,22.87
+new jersey,Both,2001,23.14
+new jersey,Both,2002,23.31
+new jersey,Both,2003,22.71
+new jersey,Both,2004,21.93
+new jersey,Both,2005,21.48
+new jersey,Both,2006,20.68
+new jersey,Both,2007,19.98
+new jersey,Both,2008,19.37
+new jersey,Both,2009,18.77
+new jersey,Both,2010,18.36
+new jersey,Both,2011,18.34
+new jersey,Both,2012,17.81
+new mexico,Both,1996,25.21
+new mexico,Both,1997,25.01
+new mexico,Both,1998,25.03
+new mexico,Both,1999,25.1
+new mexico,Both,2000,24.85
+new mexico,Both,2001,25.08
+new mexico,Both,2002,25.1
+new mexico,Both,2003,25.27
+new mexico,Both,2004,24.32
+new mexico,Both,2005,24.39
+new mexico,Both,2006,23.95
+new mexico,Both,2007,23.49
+new mexico,Both,2008,22.85
+new mexico,Both,2009,22.71
+new mexico,Both,2010,22.26
+new mexico,Both,2011,21.83
+new mexico,Both,2012,21.22
+new york,Both,1996,24.08
+new york,Both,1997,23.96
+new york,Both,1998,23.88
+new york,Both,1999,24.18
+new york,Both,2000,23.88
+new york,Both,2001,23.8
+new york,Both,2002,24.01
+new york,Both,2003,23.65
+new york,Both,2004,22.82
+new york,Both,2005,22.22
+new york,Both,2006,21.52
+new york,Both,2007,20.91
+new york,Both,2008,20.08
+new york,Both,2009,19.54
+new york,Both,2010,19.16
+new york,Both,2011,18.38
+new york,Both,2012,17.9
+north carolina,Both,1996,26.81
+north carolina,Both,1997,26.55
+north carolina,Both,1998,26.46
+north carolina,Both,1999,26.29
+north carolina,Both,2000,26.39
+north carolina,Both,2001,26.16
+north carolina,Both,2002,26.23
+north carolina,Both,2003,25.82
+north carolina,Both,2004,25.26
+north carolina,Both,2005,25.03
+north carolina,Both,2006,24.42
+north carolina,Both,2007,23.81
+north carolina,Both,2008,23.44
+north carolina,Both,2009,23.02
+north carolina,Both,2010,22.48
+north carolina,Both,2011,22.15
+north carolina,Both,2012,21.54
+north dakota,Both,1996,24.06
+north dakota,Both,1997,23.87
+north dakota,Both,1998,23.9
+north dakota,Both,1999,23.92
+north dakota,Both,2000,24.03
+north dakota,Both,2001,24.45
+north dakota,Both,2002,24.36
+north dakota,Both,2003,24.24
+north dakota,Both,2004,23.89
+north dakota,Both,2005,23.79
+north dakota,Both,2006,23.61
+north dakota,Both,2007,23.4
+north dakota,Both,2008,22.94
+north dakota,Both,2009,22.54
+north dakota,Both,2010,22.05
+north dakota,Both,2011,21.98
+north dakota,Both,2012,21.66
+ohio,Both,1996,27.75
+ohio,Both,1997,27.77
+ohio,Both,1998,27.65
+ohio,Both,1999,27.9
+ohio,Both,2000,28.05
+ohio,Both,2001,28.41
+ohio,Both,2002,28.86
+ohio,Both,2003,28.48
+ohio,Both,2004,27.89
+ohio,Both,2005,27.63
+ohio,Both,2006,26.2
+ohio,Both,2007,25.46
+ohio,Both,2008,25.14
+ohio,Both,2009,24.82
+ohio,Both,2010,24.6
+ohio,Both,2011,24.43
+ohio,Both,2012,23.75
+oklahoma,Both,1996,26.37
+oklahoma,Both,1997,26.42
+oklahoma,Both,1998,26.42
+oklahoma,Both,1999,27.2
+oklahoma,Both,2000,27.63
+oklahoma,Both,2001,27.64
+oklahoma,Both,2002,27.81
+oklahoma,Both,2003,28.35
+oklahoma,Both,2004,27.89
+oklahoma,Both,2005,27.81
+oklahoma,Both,2006,27.73
+oklahoma,Both,2007,27.64
+oklahoma,Both,2008,27.57
+oklahoma,Both,2009,27.34
+oklahoma,Both,2010,26.78
+oklahoma,Both,2011,25.97
+oklahoma,Both,2012,25.35
+oregon,Both,1996,24.28
+oregon,Both,1997,24.03
+oregon,Both,1998,23.73
+oregon,Both,1999,23.46
+oregon,Both,2000,23.29
+oregon,Both,2001,23.38
+oregon,Both,2002,23.55
+oregon,Both,2003,23
+oregon,Both,2004,22.55
+oregon,Both,2005,21.95
+oregon,Both,2006,21.42
+oregon,Both,2007,21.02
+oregon,Both,2008,20.58
+oregon,Both,2009,20.14
+oregon,Both,2010,20.14
+oregon,Both,2011,20.39
+oregon,Both,2012,19.74
+pennsylvania,Both,1996,26.49
+pennsylvania,Both,1997,26.42
+pennsylvania,Both,1998,26.32
+pennsylvania,Both,1999,26.4
+pennsylvania,Both,2000,26.42
+pennsylvania,Both,2001,26.74
+pennsylvania,Both,2002,26.96
+pennsylvania,Both,2003,26.5
+pennsylvania,Both,2004,26.07
+pennsylvania,Both,2005,25.61
+pennsylvania,Both,2006,25.13
+pennsylvania,Both,2007,24.67
+pennsylvania,Both,2008,24.12
+pennsylvania,Both,2009,23.62
+pennsylvania,Both,2010,23.16
+pennsylvania,Both,2011,22.69
+pennsylvania,Both,2012,22.07
+rhode island,Both,1996,25.57
+rhode island,Both,1997,25.67
+rhode island,Both,1998,25.6
+rhode island,Both,1999,25.82
+rhode island,Both,2000,25.99
+rhode island,Both,2001,25.96
+rhode island,Both,2002,25.66
+rhode island,Both,2003,24.74
+rhode island,Both,2004,23.82
+rhode island,Both,2005,22.77
+rhode island,Both,2006,21.97
+rhode island,Both,2007,21.11
+rhode island,Both,2008,20.64
+rhode island,Both,2009,20.13
+rhode island,Both,2010,19.87
+rhode island,Both,2011,20.29
+rhode island,Both,2012,19.72
+south carolina,Both,1996,25.63
+south carolina,Both,1997,26.51
+south carolina,Both,1998,26.61
+south carolina,Both,1999,26.35
+south carolina,Both,2000,26.96
+south carolina,Both,2001,27.12
+south carolina,Both,2002,27.4
+south carolina,Both,2003,27.17
+south carolina,Both,2004,26.59
+south carolina,Both,2005,26.25
+south carolina,Both,2006,25.68
+south carolina,Both,2007,25.16
+south carolina,Both,2008,24.6
+south carolina,Both,2009,24.1
+south carolina,Both,2010,23.86
+south carolina,Both,2011,23.31
+south carolina,Both,2012,22.36
+south dakota,Both,1996,25.66
+south dakota,Both,1997,25.5
+south dakota,Both,1998,25.53
+south dakota,Both,1999,25.43
+south dakota,Both,2000,25.15
+south dakota,Both,2001,25.33
+south dakota,Both,2002,25.22
+south dakota,Both,2003,24.98
+south dakota,Both,2004,24.66
+south dakota,Both,2005,24.58
+south dakota,Both,2006,24.06
+south dakota,Both,2007,23.38
+south dakota,Both,2008,22.6
+south dakota,Both,2009,22.43
+south dakota,Both,2010,22.15
+south dakota,Both,2011,22.29
+south dakota,Both,2012,21.67
+tennessee,Both,1996,28.24
+tennessee,Both,1997,28.18
+tennessee,Both,1998,28.13
+tennessee,Both,1999,27.81
+tennessee,Both,2000,27.53
+tennessee,Both,2001,27.31
+tennessee,Both,2002,27.57
+tennessee,Both,2003,27.46
+tennessee,Both,2004,27.28
+tennessee,Both,2005,27.24
+tennessee,Both,2006,26.78
+tennessee,Both,2007,26.32
+tennessee,Both,2008,24.19
+tennessee,Both,2009,24.05
+tennessee,Both,2010,23.93
+tennessee,Both,2011,24.77
+tennessee,Both,2012,23.99
+texas,Both,1996,23.47
+texas,Both,1997,23.35
+texas,Both,1998,23.34
+texas,Both,1999,23.28
+texas,Both,2000,23.64
+texas,Both,2001,23.43
+texas,Both,2002,23.25
+texas,Both,2003,23.04
+texas,Both,2004,22.56
+texas,Both,2005,22.14
+texas,Both,2006,21.93
+texas,Both,2007,21.59
+texas,Both,2008,21.01
+texas,Both,2009,20.54
+texas,Both,2010,20.11
+texas,Both,2011,19.18
+texas,Both,2012,18.55
+utah,Both,1996,17.48
+utah,Both,1997,17.42
+utah,Both,1998,16.81
+utah,Both,1999,16.5
+utah,Both,2000,16.13
+utah,Both,2001,15.69
+utah,Both,2002,15.08
+utah,Both,2003,14.79
+utah,Both,2004,14.27
+utah,Both,2005,14.11
+utah,Both,2006,13.86
+utah,Both,2007,13.64
+utah,Both,2008,12.96
+utah,Both,2009,12.76
+utah,Both,2010,12.5
+utah,Both,2011,12.83
+utah,Both,2012,12.46
+vermont,Both,1996,23.13
+vermont,Both,1997,22.87
+vermont,Both,1998,22.73
+vermont,Both,1999,22.78
+vermont,Both,2000,22.48
+vermont,Both,2001,22.6
+vermont,Both,2002,22.89
+vermont,Both,2003,22.52
+vermont,Both,2004,21.75
+vermont,Both,2005,21.21
+vermont,Both,2006,20.91
+vermont,Both,2007,20.02
+vermont,Both,2008,19.29
+vermont,Both,2009,18.67
+vermont,Both,2010,18.32
+vermont,Both,2011,17.95
+vermont,Both,2012,17.37
+virginia,Both,1996,24.25
+virginia,Both,1997,24.24
+virginia,Both,1998,24.08
+virginia,Both,1999,24.04
+virginia,Both,2000,23.94
+virginia,Both,2001,23.55
+virginia,Both,2002,23.47
+virginia,Both,2003,23.38
+virginia,Both,2004,22.93
+virginia,Both,2005,22.16
+virginia,Both,2006,21.66
+virginia,Both,2007,21.32
+virginia,Both,2008,20.82
+virginia,Both,2009,20.49
+virginia,Both,2010,20.05
+virginia,Both,2011,19.85
+virginia,Both,2012,19.5
+washington,Both,1996,23.51
+washington,Both,1997,23.3
+washington,Both,1998,23.26
+washington,Both,1999,23.29
+washington,Both,2000,23.05
+washington,Both,2001,22.76
+washington,Both,2002,22.4
+washington,Both,2003,21.89
+washington,Both,2004,21.15
+washington,Both,2005,20.66
+washington,Both,2006,20.06
+washington,Both,2007,19.57
+washington,Both,2008,19.17
+washington,Both,2009,18.85
+washington,Both,2010,18.69
+washington,Both,2011,18.69
+washington,Both,2012,18.1
+west virginia,Both,1996,29.35
+west virginia,Both,1997,29.52
+west virginia,Both,1998,29.55
+west virginia,Both,1999,29.83
+west virginia,Both,2000,29.89
+west virginia,Both,2001,29.96
+west virginia,Both,2002,30.23
+west virginia,Both,2003,30.54
+west virginia,Both,2004,29.41
+west virginia,Both,2005,29.02
+west virginia,Both,2006,29.17
+west virginia,Both,2007,28.68
+west virginia,Both,2008,28.63
+west virginia,Both,2009,28.44
+west virginia,Both,2010,28.37
+west virginia,Both,2011,28.62
+west virginia,Both,2012,27.83
+wisconsin,Both,1996,25.87
+wisconsin,Both,1997,25.75
+wisconsin,Both,1998,25.54
+wisconsin,Both,1999,25.19
+wisconsin,Both,2000,25.13
+wisconsin,Both,2001,25.04
+wisconsin,Both,2002,25.26
+wisconsin,Both,2003,24.86
+wisconsin,Both,2004,24.53
+wisconsin,Both,2005,24.3
+wisconsin,Both,2006,24.14
+wisconsin,Both,2007,23.47
+wisconsin,Both,2008,22.98
+wisconsin,Both,2009,22.22
+wisconsin,Both,2010,21.81
+wisconsin,Both,2011,21.51
+wisconsin,Both,2012,20.9
+wyoming,Both,1996,25.82
+wyoming,Both,1997,25.73
+wyoming,Both,1998,25.51
+wyoming,Both,1999,25.58
+wyoming,Both,2000,24.94
+wyoming,Both,2001,25.22
+wyoming,Both,2002,25.63
+wyoming,Both,2003,26.03
+wyoming,Both,2004,23.76
+wyoming,Both,2005,24.65
+wyoming,Both,2006,24.13
+wyoming,Both,2007,23.91
+wyoming,Both,2008,23.69
+wyoming,Both,2009,23.12
+wyoming,Both,2010,22.59
+wyoming,Both,2011,22.71
+wyoming,Both,2012,21.73

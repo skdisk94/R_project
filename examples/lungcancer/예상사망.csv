@@ -1,0 +1,56 @@
+암종류,Both_sexes_combined,Female,Male
+All cancer types combined,609640,286010,323630
+Acute lymphocytic leukemia,1470,640,830
+Acute myeloid leukemia,10670,4490,6180
+"Anus, anal canal and anorectum",1160,680,480
+Bones and joints,1590,660,930
+Brain and other nervous system,16830,7340,9490
+유방암,41400,40920,480
+Cervix,4170,4170,n/a
+Chronic lymphocytic leukemia,4510,1720,2790
+Chronic myeloid leukemia,1090,470,620
+대장암,50630,23240,27390
+Digestive system,160820,66590,94230
+Endocrine system,3080,1590,1490
+Esophagus,15850,3000,12850
+Eye and orbit,350,160,190
+Gallbladder and other biliary,3790,2260,1530
+Genital system,62330,32120,30210
+Hodgkin lymphoma,1050,430,620
+Kidney and renal pelvis,14970,4960,10010
+Larynx,3710,740,2970
+Leukemia,24370,10100,14270
+간 및 간내담관암,30200,9660,20540
+폐와 기관지암,154050,70500,83550
+Lymphoma,20960,8830,12130
+Melanoma of the skin,9320,3330,5990
+Mouth,2650,880,1770
+Myeloma,12770,5940,6830
+Non-Hodgkin lymphoma,19910,8400,11510
+Oral cavity and pharynx,10030,2750,7280
+Other and unspecified primary sites,44560,20610,23950
+Other digestive organs,2610,1510,1100
+Other endocrine,1020,490,530
+Other leukemia,6630,2780,3850
+Other non-epithelial skin,4140,1060,3080
+Other oral cavity,1640,360,1280
+Other respiratory organs,1010,330,680
+Ovary,14070,14070,n/a
+췌장암,44330,21310,23020
+Penis and other male genital,380,n/a,380
+Pharynx,3230,750,2480
+전립선암,29430,n/a,29430
+Respiratory system,158770,71570,87200
+Skin (excluding basal and squamous),13460,4390,9070
+Small intestine,1450,640,810
+Soft tissue (including heart),5150,2380,2770
+Stomach,10800,4290,6510
+Testis,400,n/a,400
+Thyroid,2060,1100,960
+Tongue,2510,760,1750
+Ureter and other urinary organs,960,380,580
+Urinary bladder,17240,4720,12520
+Urinary system,33170,10060,23110
+Uterine corpus,11350,11350,n/a
+Vagina and other female genital,1330,1330,n/a
+Vulva,1200,1200,n/a
